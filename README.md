@@ -11,7 +11,7 @@ There is no validation for a new generated url, it just generates a response for
 Clone this repository:
 
 ```bash
-git clone git@github.com:aristidesneto/shortener-url.git && cd shortener-url
+git clone git@github.com:aristidesneto/url-shortener.git && cd url-shortener
 ```
 
 Export host variable:
